@@ -114,6 +114,8 @@ GEM
     marcel (1.0.2)
     matrix (0.4.2)
     method_source (1.0.0)
+    mina (1.2.5)
+      rake
     mini_mime (1.1.5)
     minitest (5.20.0)
     msgpack (1.7.2)
@@ -224,6 +226,7 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
+  mina
   puma (~> 5.0)
   rails (~> 7.0.4, >= 7.0.4.2)
   redis (~> 4.0)
